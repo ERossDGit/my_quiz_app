@@ -40,5 +40,68 @@
         "correct": false
       }
     ]
+  },
+  {
+    "label": "What is the square root of 81?",
+    "choices": [
+      {
+        "value": "3",
+        "correct": false
+      },
+      {
+        "value": "40.5",
+        "correct": false
+      },
+      {
+        "value": "Huh?",
+        "correct": false
+      },
+      {
+        "value": "9",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is 2 x (1 + 2)?",
+    "choices": [
+      {
+        "value": "6",
+        "correct": true
+      },
+      {
+        "value": "1",
+        "correct": false
+      },
+      {
+        "value": "0",
+        "correct": false
+      },
+      {
+        "value": "10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the cube root of 27?",
+    "choices": [
+      {
+        "value": "3",
+        "correct": true
+      },
+      {
+        "value": "9",
+        "correct": false
+      },
+      {
+        "value": "0",
+        "correct": false
+      },
+      {
+        "value": "54",
+        "correct": false
+      }
+    ]
   }
 ]
