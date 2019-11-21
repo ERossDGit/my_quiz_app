@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is Hello in french?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": false
+      },
+      {
+        "value": "Bonjour",
+        "correct": true
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Goodbye in french?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is two in french?",
+    "choices": [
+      {
+        "value": "le two",
+        "correct": false
+      },
+      {
+        "value": "deux",
+        "correct": true
+      },
+      {
+        "value": "deuce",
+        "correct": false
+      },
+      {
+        "value": "too",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is January in french?",
+    "choices": [
+      {
+        "value": "Jeunuarie",
+        "correct": false
+      },
+      {
+        "value": "January",
+        "correct": false
+      },
+      {
+        "value": "Janvier",
+        "correct": true
+      },
+      {
+        "value": "Jan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does bon voyage translate to in english?",
+    "choices": [
+      {
+        "value": "Good riddance",
+        "correct": false
+      },
+      {
+        "value": "Good ship",
+        "correct": false
+      },
+      {
+        "value": "Get outta here",
+        "correct": false
+      },
+      {
+        "value": "Have a good trip",
+        "correct": true
+      }
+    ]
+  }
+]
